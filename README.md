@@ -1,21 +1,18 @@
-## 🛠️ Tech Stack
+## 🚀 Built With
 
-### Engine
-[![Unity](https://skillicons.dev/icons?i=unity)](https://unity.com)
+<p align="center">
 
-### Programming
-[![C#](https://skillicons.dev/icons?i=cs)](https://learn.microsoft.com/dotnet/csharp/)
+<img src="https://skillicons.dev/icons?i=unity"/>
 
-### Development
-[![Visual Studio](https://skillicons.dev/icons?i=visualstudio)](https://visualstudio.microsoft.com/)
-[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
-[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com)
+<img src="https://skillicons.dev/icons?i=cs"/>
 
-### Tools
-![Tools](https://skillicons.dev/icons?i=blender,ps)
+<img src="https://skillicons.dev/icons?i=visualstudio"/>
 
-### Platform
-![Windows](https://img.shields.io/badge/Windows-10%2F11-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+<img src="https://skillicons.dev/icons?i=git"/>
+
+<img src="https://skillicons.dev/icons?i=github"/>
+
+</p>
 
 ## 🚧 Development Status
 
