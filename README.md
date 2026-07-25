@@ -9,7 +9,7 @@
 <img src="https://skillicons.dev/icons?i=linux"/>
 
 <img src="https://skillicons.dev/icons?i=windows"/>
-<img src="https://skillicons.dev/icons?i=mac"/>
+<img src="https://skillicons.dev/icons?i=macos"/>
 <img src="https://skillicons.dev/icons?i=visualstudio"/>
 
 <img src="https://skillicons.dev/icons?i=git"/>
