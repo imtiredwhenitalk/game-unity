@@ -15,11 +15,11 @@
 </p>
 
 ## 🚀 Compability with 
-<a align="center">
+<p align="center">
 <img src="https://skillicons.dev/icons?i=linux"/>
 <img src="https://skillicons.dev/icons?i=windows"/>
 <img src="https://skillicons.dev/icons?i=apple"/>
-</a>
+</p>
 ## 🚧 Development Status
 
 Current stage: **Early Development**
