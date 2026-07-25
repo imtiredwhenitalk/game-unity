@@ -6,6 +6,8 @@
 
 <img src="https://skillicons.dev/icons?i=cs"/>
 
+<img src="https://skillicons.dev/icons?i=linux"/>
+
 <img src="https://skillicons.dev/icons?i=visualstudio"/>
 
 <img src="https://skillicons.dev/icons?i=git"/>
